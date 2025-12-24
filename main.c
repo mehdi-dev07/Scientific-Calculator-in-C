@@ -779,17 +779,6 @@ int main()
     printf("  • Product: pro(start,end,expression) - e.g., pro(1,5,n)\n");
     printf("  • Parentheses: ( )\n\n");
 
-    printf("Examples:\n");
-    printf("  3 + 4 * 2\n");
-    printf("  (3 + 4) * 2\n");
-    printf("  2^3 + 5\n");
-    printf("  sin(0) + cos(0)\n");
-    printf("  |5-10|\n");
-    printf("  sum(1,10,n)\n");
-    printf("  sum(1,5,n^2)\n");
-    printf("  pro(1,5,n)\n");
-    printf("  2 + sum(1,3,n*2)\n");
-    printf("  sum(1,4,n) * pro(1,3,n)\n\n");
 
     printf("═══════════════════════════════════════════════════════════════\n\n");
 
